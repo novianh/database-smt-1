@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T03:22:50.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="tvARe19_i7q_rVA7hG3D" version="13.10.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-03T07:01:22.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="OoXawuwBaK7qATRousIT" version="13.10.4" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2780" dy="2445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -837,7 +837,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YkjvUK62oOUy5q-BIVPK" name="Page-2">
-    <mxGraphModel dx="1599" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2269" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="24j5QB24sH-pUrDmgb0y-0" />
         <mxCell id="24j5QB24sH-pUrDmgb0y-1" parent="24j5QB24sH-pUrDmgb0y-0" />
@@ -1213,7 +1213,7 @@
         <mxCell id="b11BaAR-shyfmtxEi4lT-181" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dpoppins;" vertex="1" parent="b11BaAR-shyfmtxEi4lT-180">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b11BaAR-shyfmtxEi4lT-182" value="no.HP : int(15)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dpoppins;" vertex="1" parent="b11BaAR-shyfmtxEi4lT-180">
+        <mxCell id="b11BaAR-shyfmtxEi4lT-182" value="no.HP : varchar(15)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dpoppins;" vertex="1" parent="b11BaAR-shyfmtxEi4lT-180">
           <mxGeometry x="30" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b11BaAR-shyfmtxEi4lT-183" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dpoppins;" vertex="1" parent="b11BaAR-shyfmtxEi4lT-167">
@@ -1702,7 +1702,7 @@
         <mxCell id="b11BaAR-shyfmtxEi4lT-377" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dpoppins;" vertex="1" parent="b11BaAR-shyfmtxEi4lT-376">
           <mxGeometry width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b11BaAR-shyfmtxEi4lT-378" value="no.HP : int(15)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dpoppins;" vertex="1" parent="b11BaAR-shyfmtxEi4lT-376">
+        <mxCell id="b11BaAR-shyfmtxEi4lT-378" value="no.HP : varchar(15)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dpoppins;" vertex="1" parent="b11BaAR-shyfmtxEi4lT-376">
           <mxGeometry x="30" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b11BaAR-shyfmtxEi4lT-379" value="pengguna" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;fontColor=#354B56;fillColor=#00A8CD;strokeWidth=3;sketch=0;strokeColor=#808080;fontFamily=poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dpoppins;" vertex="1" parent="24j5QB24sH-pUrDmgb0y-1">
@@ -1881,7 +1881,7 @@
         <mxCell id="b11BaAR-shyfmtxEi4lT-432" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dpoppins;" vertex="1" parent="b11BaAR-shyfmtxEi4lT-431">
           <mxGeometry width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b11BaAR-shyfmtxEi4lT-433" value="no.HP : int(15)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dpoppins;" vertex="1" parent="b11BaAR-shyfmtxEi4lT-431">
+        <mxCell id="b11BaAR-shyfmtxEi4lT-433" value="no.HP : varchar(15)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dpoppins;" vertex="1" parent="b11BaAR-shyfmtxEi4lT-431">
           <mxGeometry x="30" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
